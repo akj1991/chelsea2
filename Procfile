@@ -1,1 +1,1 @@
-web: gunicon chelseaproject2.wsgi --log-file -
+web: gunicorn chelseaproject2.wsgi --log-file -
