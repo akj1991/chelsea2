@@ -1,0 +1,1 @@
+web: gunicon chelseaproject2.wsgi --log-file -
